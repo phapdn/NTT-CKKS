@@ -1,2 +1,4 @@
 # NTT-CKKS
-NTT for CKKS-based HE scheme
+- In-place NTT architecture for CKKS-based FHE
+
+- The "define.v" lists prime moduli for the proposed NTT architecture.
